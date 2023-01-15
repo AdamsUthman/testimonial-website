@@ -8,5 +8,5 @@ A simple page that represents testimonials from people.
 <h>
 
   
-* 🖥️  Visit website [website](https://adamsuthman.github.io/testimonial-website/)
+* 🖥️  Visit website [Testimonial website](https://adamsuthman.github.io/testimonial-website/)
   
